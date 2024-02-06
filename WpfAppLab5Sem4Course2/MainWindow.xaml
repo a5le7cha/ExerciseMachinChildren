@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfAppLab5Sem4Course2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppLab5Sem4Course2"
+        mc:Ignorable="d"
+        Title="Тренажер" Height="170" Width="475.2" 
+        WindowStartupLocation="CenterScreen" Background="DeepSkyBlue" Icon="icon.png">
+    <Grid>
+        <StackPanel>
+            <Button x:Name="btnStart" FontSize="30" Background="Yellow" Click="btnStart_Click" Content="Начать" Margin="0,0,-0.4,0">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="6"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button x:Name="btnResult" FontSize="30" Background="Bisque" Click="btnResult_Click" Content="Результаты" Margin="0,0,-0.2,0">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="6"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button x:Name="btnExit" FontSize="30" Background="LimeGreen" Content="Завершить"
+                    Click="btnExit_Click" Margin="0,0,-0.4,0">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="6"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,59 @@
+﻿<Window x:Class="WpfAppLab5Sem4Course2.WinResults"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppLab5Sem4Course2"
+        mc:Ignorable="d"
+        Title="WinResults" Height="500" Width="900" 
+        Background="Aqua" Icon="icon.png" WindowStartupLocation="CenterScreen">
+    <Canvas>
+        <ListBox x:Name="AllResultList" Height="450" Width="558" Canvas.Left="326" Canvas.Top="10" FontSize="18" FontFamily="Verdana" >
+            <ListBox.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </ListBox.Resources>
+        </ListBox>
+        <Button x:Name="btnDelete" Height="52" Width="199" Canvas.Left="21" Canvas.Top="28" Content="Удалить пользователя" 
+                FontSize="16" Background="Beige" FontFamily="Verdana" Click="btnDelete_Click">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TextBox x:Name="NumberDelete"  BorderBrush="{x:Null}" Height="52" Width="77" Canvas.Left="225" Canvas.Top="28">
+            <TextBox.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </TextBox.Resources>
+        </TextBox>
+        <Button x:Name="btnDeleteAll" Height="59" Width="155" Content="Очистить" 
+                FontSize="25" Background="Beige" FontFamily="Verdana" Click="btnDeleteAll_Click" 
+                Canvas.Left="21" Canvas.Top="125">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="btnShowAll" Height="58" Width="155" Canvas.Left="21" Canvas.Top="261" 
+                Background="Beige" Content="Вывести" FontSize="25" FontFamily="Verdana" Click="btnShowAll_Click">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="BackMenu" Content="Назад" Height="42" Width="142" 
+                Background="Beige" FontSize="20" Canvas.Left="21" Canvas.Top="394" Click="BackMenu_Click">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="8"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Canvas>
+</Window>

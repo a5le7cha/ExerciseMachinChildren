@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfAppLab5Sem4Course2.WinPanelxaml"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppLab5Sem4Course2"
+        mc:Ignorable="d"
+        Title="Тренажер" Height="600" Width="900" 
+        Background="Pink" WindowStartupLocation="CenterScreen" Icon="icon.png">
+    <Grid x:Name="PanelButton" Margin="60, 60, 60, 60">
+        <Grid.RowDefinitions>
+            <RowDefinition x:Name="Row1"></RowDefinition>
+            <RowDefinition x:Name="Row2"></RowDefinition>
+            <RowDefinition x:Name="Row3"></RowDefinition>
+            <RowDefinition x:Name="Row4"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="Col1"/>
+            <ColumnDefinition x:Name="Col2"/>
+            <ColumnDefinition x:Name="Col3"/>
+            <ColumnDefinition x:Name="Col4"/>
+            <ColumnDefinition x:Name="Col5"/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Column="3" Margin="153,122.4,-0.4,-53.6" Grid.Row="3" Content="Вырнуться на главное меню"
+                FontSize="11"  Background="Yellow" Click="Button_Back" Grid.ColumnSpan="2">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="9"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>

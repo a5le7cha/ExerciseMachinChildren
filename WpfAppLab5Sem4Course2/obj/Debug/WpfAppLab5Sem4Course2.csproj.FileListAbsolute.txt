@@ -1,0 +1,46 @@
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.csproj.AssemblyReference.cache
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\MainWindow.g.cs
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinClickBtn.g.cs
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinPanelxaml.g.cs
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\App.g.cs
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2_MarkupCompile.cache
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2_MarkupCompile.lref
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\bin\Debug\WpfAppLab5Sem4Course2.exe.config
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\bin\Debug\WpfAppLab5Sem4Course2.exe
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\bin\Debug\WpfAppLab5Sem4Course2.pdb
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\MainWindow.baml
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinClickBtn.baml
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinPanelxaml.baml
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.g.resources
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.Properties.Resources.resources
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.csproj.GenerateResource.cache
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.csproj.CoreCompileInputs.cache
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.exe
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.pdb
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinUser.g.cs
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinUser.baml
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinResults.g.cs
+D:\Работы по прог 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinResults.baml
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\bin\Debug\WpfAppLab5Sem4Course2.exe.config
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\bin\Debug\WpfAppLab5Sem4Course2.exe
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\bin\Debug\WpfAppLab5Sem4Course2.pdb
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.csproj.AssemblyReference.cache
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\MainWindow.g.cs
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinClickBtn.g.cs
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinPanelxaml.g.cs
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinResults.g.cs
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinUser.g.cs
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\App.g.cs
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2_MarkupCompile.cache
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2_MarkupCompile.lref
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\MainWindow.baml
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinClickBtn.baml
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinPanelxaml.baml
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinResults.baml
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WinUser.baml
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.g.resources
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.Properties.Resources.resources
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.csproj.GenerateResource.cache
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.csproj.CoreCompileInputs.cache
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.exe
+C:\сессии\2й курс\4 семестр\ЯП\работы по програм-ю 2 курс 4 семестр\WpfAppLab5Sem4Course2\WpfAppLab5Sem4Course2\obj\Debug\WpfAppLab5Sem4Course2.pdb
